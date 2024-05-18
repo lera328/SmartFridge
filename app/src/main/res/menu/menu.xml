@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_fridge"
+        android:icon="@drawable/baseline_kitchen_24"
+        android:title="Холодильник"
+        android:iconTint="#2196F3"/>
+
+    <item
+        android:id="@+id/nav_list"
+        android:icon="@drawable/baseline_local_grocery_store_24"
+        android:title="Список покупок"
+        android:iconTint="#F44336"
+        />
+
+    <item
+        android:id="@+id/nav_diary"
+        android:icon="@drawable/baseline_checklist_24"
+        android:title="Дневник питания"
+        android:iconTint="#4CAF50"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Настройки"
+        android:iconTint="#FF9800"/>
+</menu>
